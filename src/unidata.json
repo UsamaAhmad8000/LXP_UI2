@@ -1,0 +1,205 @@
+[
+    {
+          "id": 1,
+          "name": "Top Universities in Islamabad",
+          "universities": [
+            {
+              "id": 1,
+              "name": "Quaid-i-Azam University",
+              "rank": 1,
+              "rating": 4.6,
+              "numberOfReviews": 3681,
+              "link": "https://qau.edu.pk",
+              "image": "https://th.bing.com/th/id/OIP.Y8kF7ncrHUo8IwNLiUdYswHaEw?pid=ImgDet&rs=1"
+            },
+            {
+              "id": 2,
+              "name": "National University of Science and Technology",
+              "rank": 2,
+              "rating": 4.2,
+              "numberOfReviews": 698,
+              "link": "https://nust.edu.pk",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfnMSGjri83qCqRedWuDgFw2MkbXKVOpgl2P3dfmmSdcUrgxcKGGAk27aeZdwTXsOp6HI&usqp=CAU"
+            },
+            {
+              "id": 3,
+              "name": "Institute of Space Technology",
+              "rank": 4,
+              "rating": 4.2,
+              "numberOfReviews": 698,
+              "link": "https://ist.edu.pk",
+              "image": "https://studyinpakistan.pk/wp-content/uploads/2022/08/IST-Islamabad-860x659.jpg"
+            },
+            {
+              "id": 4,
+              "name": "COMSATS Institute of Information Technology",
+              "rank": 5,
+              "rating": 4.2,
+              "numberOfReviews": 698,
+              "link": "https://comsats.edu.pk",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMk5Az99Un_5vRi79RYP9hxyu-xZAMk0B8aYYB6fHess7dWH_NlXyAKOP0oVI7ttW2q10&usqp=CAU"
+            }
+      
+        ]
+  },
+  {
+      "id": 2,
+      "name": "Universities in Pakistan",
+      "universities": [
+        {
+          "id": 1,
+          "name": "Riphah International University",
+          "rank": 12,
+          "rating": 4.2,
+          "numberOfReviews": 698,
+          "link": "https://riphah.edu.pk",
+          "image": "https://events.riphah.edu.pk/wp-content/uploads/2021/03/campus-pictures-02.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Capital University of Science & Technology",
+          "rank": 1,
+          "rating": 4.3,
+          "numberOfReviews": 920,
+          "link": "https://cust.edu.pk",
+          "image": "https://countrydevelopers.com.pk/wp-content/uploads/2019/02/CUST-Islamabad-7-870x485.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Quaid-i-Azam University",
+          "rank": 3,
+          "rating": 4.6,
+          "numberOfReviews": 3681,
+          "link": "https://qau.edu.pk",
+          "image": "https://th.bing.com/th/id/OIP.Y8kF7ncrHUo8IwNLiUdYswHaEw?pid=ImgDet&rs=1"
+        },
+        {
+          "id": 4,
+          "name": "Pakistan Institute of Engineering and Applied Sciences",
+          "rank": 34,
+          "rating": 4.5,
+          "numberOfReviews": 677,
+          "link": "https://pieas.edu.pk",
+          "image": "https://scontent.fisb6-2.fna.fbcdn.net/v/t39.30808-6/306849135_570993754819369_9072510464887666219_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=52f669&_nc_ohc=5TwvE3dsNMIAX_gYoPS&_nc_ht=scontent.fisb6-2.fna&oh=00_AfA2ulV1695u4gh-U04N-OgzM3zsBwAgi5DJ29Cg1q7PjA&oe=6503698A"
+        },
+        {
+          "id": 5,
+          "name": "Allama Iqbal Open University",
+          "rank": 118,
+          "rating": 4.3,
+          "numberOfReviews": 2516,
+          "link": "https://aiou.edu.pk",
+          "image": "https://https://aiou.edu.pk/sites/default/files/2022-10/rc%20mithi%20pic.jpg"
+        },
+        {
+          "id": 6,
+          "name": "National University of Modern Languages",
+          "rank": 91,
+          "rating": 4.5,
+          "numberOfReviews": 2388,
+          "link": "https://numl.edu.pk",
+          "image": "https://cdn.techjuice.pk/wp-content/uploads/2021/01/NUML-Islamabad.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Air University, Islamabad",
+          "rank": 26,
+          "rating": 4.4,
+          "numberOfReviews": 1851,
+          "link": "https://au.edu.pk",
+          "image": "https://https://au.edu.pk/AU_New_Assets/images/Campuses/islamabad.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Shifa Tameer-e-Millat University",
+          "rank": 67,
+          "rating": 4.5,
+          "numberOfReviews": 34,
+          "link": "https://stmu.edu.pk",
+          "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_750,h_528/https://stmu.edu.pk/wp-content/uploads/2018/01/Anex-1.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Muslim Youth University",
+          "rank": 252,
+          "rating": 4.3,
+          "numberOfReviews": 66,
+          "link": "https://myu.edu.pk",
+          "image": ""
+        },
+        {
+          "id": 10,
+          "name": "National University of Technology",
+          "rank": 130,
+          "rating": 4.6,
+          "numberOfReviews": 8,
+          "link": "https://nutech.edu.pk",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDxyxGtBuSWJEihKtDHTxjkNpoM8q9px12dQ&usqp=CAU"
+        },
+        {
+          "id": 11,
+          "name": "National Skills University",
+          "rank": 244,
+          "rating": 4.5,
+          "numberOfReviews": 262,
+          "link": "https://nsu.edu.pk",
+          "image": "https://propakistani.pk/wp-content/uploads/2022/12/National-Skills-University.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Ibadat International University",
+          "rank": null,
+          "rating": 4.1,
+          "numberOfReviews": 464,
+          "link": "https://ibadat.edu.pk",
+          "image": "https://scontent.fisb6-2.fna.fbcdn.net/v/t39.30808-6/244628285_5270115739691717_2527463244117654282_n.jpg?stp=dst-jpg_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=52f669&_nc_ohc=rSMP7rC8COsAX_uRaT2&_nc_ht=scontent.fisb6-2.fna&oh=00_AfD7dicjCTJ13F-QOxCjPdRPOv_6kb7WSCLuR3UKRHelAg&oe=6504CD1A"
+        },
+        {
+          "id": 13,
+          "name": "Iqra University, Islamabad ",
+          "rank": 48,
+          "rating": 4.5,
+          "numberOfReviews": 780,
+          "link": "https://iqra.edu.pk",
+          "image": "https://iqra.edu.pk/wp-content/uploads/2021/06/campus_islamabad.jpg"
+        },
+        {
+          "id": 14,
+          "name": "Preston University",
+          "rank": 159,
+          "rating": 4.1,
+          "numberOfReviews": 380,
+          "link": "https://preston.edu.pk",
+          "image": ""
+        },
+        {
+          "id": 15,
+          "name": "Abasyn University",
+          "rank": 181,
+          "rating": 4.3,
+          "numberOfReviews": 699,
+          "link": "https://abasyn.edu.pk",
+          "image": "https://https://arqumhouse.edu.pk/wp-content/uploads/2017/08/Abasyn-University-Islamabad.jpg"
+        },
+        {
+          "id": 16,
+          "name": "Virtual University of Pakistan",
+          "rank": 63,
+          "rating": 4.5,
+          "numberOfReviews": 426,
+          "link": "https://vu.edu.pk",
+          "image": ""
+        },
+        {
+          "id": 17,
+          "name": "Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology",
+          "rank": 196,
+          "rating": 4.4,
+          "numberOfReviews": 551,
+          "link": "https://szabist.edu.pk",
+          "image": "https://szabist-isb.edu.pk/wp-content/uploads/2020/05/356A7777-3.jpg"
+        }
+      ]
+    }
+  ]
+  
